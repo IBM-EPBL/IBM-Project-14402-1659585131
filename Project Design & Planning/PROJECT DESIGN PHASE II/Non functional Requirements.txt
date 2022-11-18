@@ -1,0 +1,9 @@
+Non-Functional Requirements:
+Data Gathering:
+Using multiple sensors, we are going to gather the necessary data.
+Data Store:
+Collected data is stored in Cloud and Necessary databases.
+Data Analysis:
+Data from the store must be analyzed for raising alerts in case of necessity.
+Data Monitoring:
+Gathered data must be displayed to the user for monitoring.
